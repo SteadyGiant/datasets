@@ -6,7 +6,7 @@ This project compiles data on political contributions made to candidates for ele
 
 All data come from the NJ Election Law Enforcement Commission's (ELEC) Candidate and Committee Reports [database](https://www.njelecefilesearch.com/searchcandidatereports).
 
-This project creates a summary data file, [`data/clean/summary.csv`](./data/clean/summary.csv), containing total contributions made to all candidates of any party in all primary and general elections since and including 2015, aggregated by contributor.
+This project creates a summary data file, [`data/clean/summary.csv`](./data/clean/summary.csv), containing total contributions made to all candidates of any party in all general elections (no primaries) from 2015 to 2024, aggregated by contributor.
 
 ## Usage
 
